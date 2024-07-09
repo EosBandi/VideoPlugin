@@ -1,7 +1,7 @@
 VideoPlugin - Mission Planner Plugin for displaying low latency video NOT in the HUD
 V1.0 by EosBandi - 2023.09.22
 
- Requires https://github.com/Eosbandi/Mvp.net 
+ Requires https://github.com/Eosbandi/mvp.net 
 
  Video URL can be set in CAM_URL parameter in config.xml The setting will be there after the first run
  but you can add it upfront :
